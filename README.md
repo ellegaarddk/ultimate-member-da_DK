@@ -14,3 +14,6 @@ Dette er de danske oversættelse filer til WordPress plugin'et Ultimate Member o
 - Dansk oversættelse af Ultimate Member ultimate-member
 - Dansk oversættelse af Ultimate Member - WooCommerce um-woocommerce
 - Dansk oversættelse af Ultimate Member - Notices um-notices
+
+
+Har du tilføjelser/rettelser/kommentarer, så kom endelig med dem!
