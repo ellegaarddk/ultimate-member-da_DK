@@ -3,6 +3,10 @@ Translation of Ultimate Member to Danish - dansk oversættelse af Ultimate Membe
 
 This the Danish translation files for the WordPress plugin Ultimate Member and extensions
 
+- Danish translation of Ultimate Member - WooCommerce um-woocommerce
+
 =======================================================
 
 Dette er de danske oversættelse filer til WordPress plugin'et Ultimate Member og udvidelser
+
+- Dansk oversættelse af Ultimate Member - WooCommerce um-woocommerce
