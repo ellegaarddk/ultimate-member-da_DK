@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - Notices\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-21 17:22+0000\n"
+"PO-Revision-Date: 2019-11-10 16:24+0100\n"
+"Last-Translator: Morten Ellegaard Larsen <info@eid.dk>\n"
+"Language-Team: Dansk\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4\n"
+
+#: includes/admin/templates/options.php:68
+msgid "A comma seperated list of user IDs or usernames to show this notice for"
+msgstr ""
+"En komma-separeret liste over bruger-id'er eller brugernavne som denne "
+"meddelelse vises for"
+
+#: includes/core/um-notices-init.php:217 includes/core/um-notices-init.php:218
+msgid "Add New Notice"
+msgstr "Tilføj ny meddelelse"
+
+#: includes/admin/templates/options.php:81
+msgid "All"
+msgstr "Alle"
+
+#: includes/admin/templates/options.php:16
+msgid "Allow this notice to appear in footer"
+msgstr "Tillad, at denne meddelelse vises i sidefod"
+
+#: includes/admin/templates/styling.php:61
+msgid "Border"
+msgstr "Kant"
+
+#: includes/admin/templates/styling.php:69
+msgid "Border Radius"
+msgstr "Hjørneradius"
+
+#: includes/admin/templates/styling.php:77
+msgid "Box Shadow"
+msgstr "Skygge"
+
+#: includes/admin/templates/cta.php:33
+msgid "Button Background Color"
+msgstr "Baggrundsfarve på knap"
+
+#: includes/admin/templates/cta.php:18
+msgid "Button Text"
+msgstr "Knaptekst"
+
+#: includes/admin/templates/cta.php:40
+msgid "Button Text Color"
+msgstr "Knap tekstfarve"
+
+#: includes/admin/templates/cta.php:25
+msgid "Button URL"
+msgstr "Knap URL"
+
+#: includes/admin/templates/styling.php:78
+msgid "Change this If you want to apply a box-shadow to the notice box"
+msgstr "Rediger dette, hvis du vil tilføje en skygge til meddelelsesboksen"
+
+#: includes/core/class-notices-metabox.php:43
+msgid "CTA (Call to Action)"
+msgstr "CTA (call to action)"
+
+#: includes/admin/templates/options.php:29
+msgid "Display this notice to logged in users"
+msgstr "Vis denne meddelelse til brugere, som er logget ind"
+
+#: includes/admin/templates/options.php:23
+msgid "Display this notice to logged out users"
+msgstr "Vis denne meddelelse til gæster, som er logget ud"
+
+#: includes/core/um-notices-init.php:219
+msgid "Edit Notice"
+msgstr "Rediger meddelelse"
+
+#: includes/admin/templates/cta.php:12
+msgid "Enable Call to Action button"
+msgstr "Aktivér CTA knappen"
+
+#: includes/admin/templates/rules.php:17
+msgid "Enter allowed URLs one per line"
+msgstr "Angiv tilladte webadresser én pr. linje"
+
+#: includes/admin/templates/styling.php:62
+msgid "Enter border css here"
+msgstr "Angiv kant-CSS her"
+
+#: includes/admin/templates/styling.php:70
+msgid "Enter border radius here. e.g. 3px"
+msgstr "Angiv hjørneradius her. Fx 3px"
+
+#: includes/core/class-notices-admin.php:59
+msgid "Enter notice title here"
+msgstr "Indtast beskedtitel her"
+
+#: includes/admin/templates/notice.php:23
+msgid "Flush"
+msgstr "Forny"
+
+#: includes/admin/templates/notice.php:25
+msgid "Flush this notice"
+msgstr "Forny denne meddelelse"
+
+#: includes/admin/templates/notice.php:24
+msgid ""
+"Flushing a notice makes it appear as a new notice to users even those who "
+"have seen it already."
+msgstr ""
+"At forny en meddelelse får den til fremstå som en ny meddelelse til "
+"brugerne, selv dem der har set det allerede."
+
+#: includes/core/class-notices-metabox.php:41
+msgid "Footer Rules"
+msgstr "Regler for sidefod"
+
+#: includes/core/class-notices-admin.php:83
+msgid ""
+"How many people reached this notice? Count users who seen and closed the "
+"notice only"
+msgstr ""
+"Hvor mange mennesker har denne meddelelse nået? Tæl kun brugere med, der har "
+"set og lukket meddelelsen"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://ultimatemember.com/"
+msgstr "http://ultimatemember.com/"
+
+#: includes/admin/templates/options.php:17
+msgid "If turned off, this notice can only appear using shortcode method"
+msgstr ""
+"Hvis deaktiveret, vises denne meddelelse kan kun ved brug af shortcode "
+"metoden"
+
+#: includes/admin/templates/styling.php:5
+msgid "If you do not provide custom styling here, defaults will be used."
+msgstr ""
+"Hvis du ikke angiver brugerdefineret styling her, vil der blive brugt "
+"standardindstillinger."
+
+#: includes/admin/templates/options.php:36
+msgid "Leave blank to show to all user roles"
+msgstr "Lad feltet stå tomt for at vise til alle brugerroller"
+
+#: includes/core/um-notices-init.php:221
+msgid "Nothing found in Trash"
+msgstr "Intet fundet i papirkurv"
+
+#: includes/core/um-notices-init.php:216
+msgid "Notice"
+msgstr "Meddelelse"
+
+#: includes/admin/templates/styling.php:22
+msgid "Notice background color"
+msgstr "Meddelelsens baggrundsfarve"
+
+#: includes/admin/templates/styling.php:54
+msgid "Notice Close Icon color"
+msgstr "Meddelelsens Luk ikon farve"
+
+#: includes/admin/templates/styling.php:35
+msgid "Notice font size"
+msgstr "Meddelelsens skriftsstørrelse"
+
+#: includes/admin/templates/styling.php:41
+msgid "Notice Icon"
+msgstr "Ikon for meddelelse"
+
+#: includes/admin/templates/styling.php:48
+msgid "Notice Icon color"
+msgstr "Meddelelsens ikonfarve"
+
+#: includes/admin/templates/styling.php:15
+msgid "Notice Minimum Width"
+msgstr "Meddelelsens minimumsbredde"
+
+#: includes/core/filters/um-notices-settings.php:29
+msgid "Notice Position in Footer"
+msgstr "Placering af meddelelse i sidefod"
+
+#: includes/admin/templates/styling.php:28
+msgid "Notice text color"
+msgstr "Meddelelsens tekstfarve"
+
+#: includes/core/class-notices-admin.php:70
+#: includes/core/um-notices-init.php:215
+#: includes/core/filters/um-notices-settings.php:24
+msgid "Notices"
+msgstr "Notices"
+
+#: includes/core/filters/um-notices-settings.php:15
+msgid "Notices License Key"
+msgstr "Notices licensnøgle"
+
+#: includes/core/class-notices-metabox.php:40
+msgid "Options"
+msgstr "Indstillinger"
+
+#: includes/admin/templates/options.php:53
+msgid "Other"
+msgstr "Andet"
+
+#: includes/core/class-notices-admin.php:83
+#: includes/admin/templates/notice.php:18
+msgid "Reach"
+msgstr "Rækkevidde"
+
+#: includes/core/um-notices-init.php:222
+msgid "Search Notices"
+msgstr "Søg i meddelelser"
+
+#: includes/core/filters/um-notices-settings.php:34
+msgid "Select..."
+msgstr "Vælg..."
+
+#: includes/admin/templates/styling.php:16
+msgid "Set a minimum width for notice wrapper"
+msgstr "Angive en minimumsbredde for wrapper til meddelelse"
+
+#: includes/core/class-notices-admin.php:82
+#: includes/admin/templates/notice.php:5
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/admin/templates/options.php:46
+msgid "Show If the user did not"
+msgstr "Vis, hvis brugeren ikke"
+
+#: includes/admin/templates/options.php:60
+msgid "Show If the user did not fill that metakey"
+msgstr "Vis, hvis brugeren ikke har udfyldt metanøglen"
+
+#. Description of the plugin
+msgid "Show notices to your users when they visit your WordPress site."
+msgstr ""
+"Vis meddelelser til dine brugere, når de besøger dit WordPress-websted."
+
+#: includes/admin/templates/rules.php:45
+msgid "Show on Custom Post Types"
+msgstr "Vis på brugerdefinerede indlægstyper (CPT)"
+
+#: includes/admin/templates/rules.php:24
+msgid "Show on Homepage"
+msgstr "Vis på Forside"
+
+#: includes/admin/templates/rules.php:38
+msgid "Show on Pages"
+msgstr "Vis på sider"
+
+#: includes/admin/templates/rules.php:31
+msgid "Show on Posts"
+msgstr "Vis på indlæg"
+
+#: includes/admin/templates/rules.php:11
+msgid "Show on specific URLs only"
+msgstr "Vis kun på bestemte webadresser"
+
+#: includes/admin/templates/options.php:67
+msgid "Show only to certain user(s)"
+msgstr "Vis kun til bestemte brugere"
+
+#: includes/core/filters/um-notices-settings.php:32
+msgid "Show to Left"
+msgstr "Vis til venstre"
+
+#: includes/core/filters/um-notices-settings.php:31
+msgid "Show to Right"
+msgstr "Vis til højre"
+
+#: includes/admin/templates/options.php:77
+msgid "Show to shop users"
+msgstr "Vis til webshopbrugere"
+
+#: includes/admin/templates/options.php:90
+msgid "Spent at least (on purchases)"
+msgstr "Brugt mindst (på indkøb)"
+
+#: includes/core/class-notices-metabox.php:42
+msgid "Styling"
+msgstr "Styling"
+
+#: um-notices.php:40 um-notices.php:56
+#, php-format
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr ""
+"<strong>%s</strong> udvidelsen kræver Ultimate Member plugin aktiveret for "
+"at fungere korrekt. Du kan downloade det <a href=\"https://wordpress.org/"
+"plugins/ultimate-member\">her</a>"
+
+#: includes/core/class-notices-metabox.php:45
+msgid "This Notice"
+msgstr "Denne meddelelse"
+
+#. Author of the plugin
+msgid "Ultimate Member"
+msgstr "Ultimate Member"
+
+#. Name of the plugin
+msgid "Ultimate Member - Notices"
+msgstr "Ultimate Member - Notices"
+
+#: includes/admin/templates/options.php:52
+msgid "Upload cover photo"
+msgstr "Upload et bannerbillede"
+
+#: includes/admin/templates/options.php:51
+msgid "Upload profile photo"
+msgstr "Upload profilfoto"
+
+#: includes/admin/templates/options.php:82
+msgid "Users who did not purchase anything"
+msgstr "Brugere, der ikke har købt noget"
+
+#: includes/admin/templates/options.php:83
+msgid "Users who made purchases"
+msgstr "Brugere, der har foretaget køb"
+
+#: includes/admin/templates/options.php:35
+msgid "Which user roles can see this notice"
+msgstr "Hvilke brugerroller kan se denne meddelelse"
+
+#: includes/admin/templates/styling.php:42
+msgid "You can optionally add an icon to this notice"
+msgstr "Du kan eventuelt tilføje et ikon til denne meddelelse"
+
+#: includes/core/um-notices-init.php:220
+msgid "You did not create any notices yet"
+msgstr "Du har ikke oprettet nogen meddelelser endnu"
